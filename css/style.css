@@ -375,6 +375,7 @@ textarea::placeholder {
 
 /* Modal-form START */
 .modal-form {
+  position: fixed;
   background-color: #fff;
   max-width: 455px;
   padding: 20px 45px 50px 45px;
